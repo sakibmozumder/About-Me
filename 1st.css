@@ -10,4 +10,12 @@ html {
 body {
     display: table-cell;
     vertical-align: middle;
+    background-image: url('https://www.fineartstorehouse.com/p/629/bangladeshi-rickshaw-view-13562015.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#diff {
+  background-color: floralwhite;
+  padding: 50px 50px 50px 50px;
 }
